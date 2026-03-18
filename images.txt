@@ -1,2 +1,2 @@
 hello-world
-dify_ai/dify
+langgenius/dify
