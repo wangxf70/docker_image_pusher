@@ -1,2 +1,11 @@
 hello-world
-langgenius/dify
+langgenius/dify-sandbox:0.2.12
+semitechnologies/weaviate:1.27.0
+busybox:latest
+postgres:15-alpine
+langgenius/dify-web:1.13.1
+redis:6-alpine
+langgenius/dify-plugin-daemon:0.5.4-local
+langgenius/dify-api:1.13.1
+nginx:latest
+ubuntu/squid:latest
